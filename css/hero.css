@@ -182,7 +182,7 @@
     vertical-align: top;
     width: 490px;
     height: 505px;
-    background: url(../../../img/gates.jpg) center center / cover no-repeat; 
+    background: url(../img/gates.jpg) center center / cover no-repeat; 
     border-radius: 5px;
     margin-bottom: 115px;
 }
@@ -192,7 +192,7 @@
     vertical-align: top;
     width: 785px;
     min-height: 455px;
-    background: url(../../../img/mountains.png) center center / cover no-repeat;
+    background: url(../img/mountains.png) center center / cover no-repeat;
     padding: 70px 80px;
     border-radius: 5px;
     margin-left: -148px;
@@ -345,7 +345,7 @@ background:#F4F5F5;
 }
 
 .title__reviews--item:after{
-    content:  url(./reviews/img-rev/vk.svg);
+    content:  url(../img/vk.svg);
     height: 30px;
 }
 
@@ -393,7 +393,7 @@ background:#F4F5F5;
     color: #818181
 }
 .separator{
-    background: url(./reviews/img-rev/Rectangle.svg) no-repeat ;
+    background: url(../img/Rectangle.svg) no-repeat ;
    
    
     display: flex;
