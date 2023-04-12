@@ -327,7 +327,7 @@ background:#F4F5F5;
 
 .header__reviews{
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     margin-bottom: 30px;
 }
 .title__reviews--item{
